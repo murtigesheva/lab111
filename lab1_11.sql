@@ -171,7 +171,7 @@ COPY public.equipment (id_equipment, title, model, place_id) FROM stdin;
 4	Vesy	elektronny	4
 5	Pres	gidravlicheskiy	4
 6	Generatory	gazovye	5
-7	Pylososy	stroitelnye	6
+7	Pilisosi	stroitelnye	6
 8	Kondicionery	nastennye	7
 9	Pech	mufelnay	10
 10	Overlok	dvoynoy	11
